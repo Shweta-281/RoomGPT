@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+<img width="893" alt="image" src="https://github.com/Shweta-281/RoomGPT/assets/144674061/c9d1e8f7-67a7-4bd6-987a-73de4de0dee7">
+
+
 ## Getting Started
 
 First, run the development server:
